@@ -21,17 +21,8 @@
 
 ### Connect with me:
 
-<a href="https://linkedin.com/in/nicholas-njagi" target="blank" style="color:white; background-color:#0A66C2; padding:4px;font-size:14px;border-radius:5px;margin-right:10px;">
-<img height="11" width="14"  src='linkedin.svg' alt='Linkedin logo'>
- Linkedin </a>
+![Static Badge](https://img.shields.io/badge/%20(formerly%20Twitter)%20-%20black?style=flat%20&logo=x&logoColor=%23fff&labelColor=%23000&color=%23000000&link=https%3A%2F%2Ftwitter.com%2Fnick_njagi) ![Static Badge](https://img.shields.io/badge/Discord(nicknjagi)%20-%20black?style=flat%20&logo=discord&logoColor=%23FFF&color=%235865F2&link=https%3A%2F%2Fdiscord.com%2Fchannels%2F%40me) ![Static Badge](https://img.shields.io/badge/Linkedin%20-%20black?style=flat%20&logo=linkedin&logoColor=%23FFF&color=%230A66C2&link=https%3A%2F%2Flinkedin.com%2Fin%2Fnicholas-njagi)
 
-<a href="https://discord.com/channels/@me" target="blank" style="color:white; background-color:#5865F2; padding:4px;border-radius:5px;font-size:14px;margin-right:10px;">
-<img height="13" width="14"  src='discord.svg' alt='discord logo'>
-@nicknjagi  </a>
-
-<a href="https://twitter.com/nick_njagi" target="blank" style="color:white; background-color:#1D9BF0; padding:4px;border-radius:5px;font-size:14px;margin-right:10px;">
-<img height="12" width="14"  src='x.svg' alt='x logo'>
-(formerly Twitter)  </a>
 
 <br/>
 <br/>
