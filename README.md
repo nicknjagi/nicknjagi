@@ -4,7 +4,7 @@
 
 <h3 align="left">A fullstack developer from Nairobi, Kenya.</h3>
 
-- 🌱 I’m currently learning **python, django, Mongo DB**
+- 🌱 I’m currently learning **FastAPI, Mongo DB**
 
 - 📫 How to reach me **njaginicholas@gmail.com**
 
@@ -16,5 +16,4 @@
 
 ![Static Badge](https://img.shields.io/badge/%20(formerly%20Twitter)%20-%20black?style=flat%20&logo=x&logoColor=%23fff&labelColor=%23000&color=%23000000&link=https%3A%2F%2Ftwitter.com%2Fnick_njagi) ![Static Badge](https://img.shields.io/badge/Discord(nicknjagi)%20-%20black?style=flat%20&logo=discord&logoColor=%23FFF&color=%235865F2&link=https%3A%2F%2Fdiscord.com%2Fchannels%2F%40me) ![Static Badge](https://img.shields.io/badge/Linkedin%20-%20black?style=flat%20&logo=linkedin&logoColor=%23FFF&color=%230A66C2&link=https%3A%2F%2Flinkedin.com%2Fin%2Fnicholas-njagi)
 
-## Github Stats
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nicknjagi&" alt="nicknjagi" /></p>
+
