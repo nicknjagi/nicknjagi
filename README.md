@@ -4,7 +4,7 @@
 
 <h3 align="left">A fullstack developer from Nairobi, Kenya.</h3>
 
-- 🌱 I’m currently learning **FastAPI, Mongo DB**
+- 🌱 I’m currently learning **NextJS, Django**
 
 - 📫 How to reach me **njaginicholas@gmail.com**
 
